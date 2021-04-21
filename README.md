@@ -1,2 +1,2 @@
 # testrepo
-testrepo Just for testing
+testrepo Just for testing.
